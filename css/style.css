@@ -1,0 +1,10 @@
+/* Define largura e altura do menu lateral */
+.sidebar {
+  width: 220px;
+  min-height: 100vh;
+}
+
+.nav-link:hover {
+  background-color: #495057;
+  border-radius: 5px;
+}
